@@ -1,5 +1,9 @@
 # Jovavia
 
+<p align="center">
+  <img src="banner.png" alt="Jovavia Banner" width="100%" />
+</p>
+
 **AI-Native Cloud Infrastructure Platform**
 
 Jovavia is an open-source engineering platform for building distributed cloud systems and autonomous AI infrastructure.
