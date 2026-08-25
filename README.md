@@ -1,65 +1,38 @@
-# Jovavia
-
 <p align="center">
   <img src="banner.png" alt="Jovavia Banner" width="100%" />
 </p>
 
-**AI-Native Cloud Infrastructure Platform**
+<h1 align="center">Jovavia</h1>
 
-Jovavia is an open-source engineering platform for building distributed cloud systems and autonomous AI infrastructure.
+<p align="center">
+AI-Native Cloud Infrastructure Platform
+</p>
 
-We build production-grade services inspired by hyperscalers like Oracle Cloud Infrastructure, AWS, and Google Cloud — implemented with Spring Boot, Kubernetes, PostgreSQL, Redis, Kafka, Temporal, and OpenTelemetry.
-
----
-
-
-## Technology Stack
-
-* Java 21
-* Spring Boot 3.x
-* PostgreSQL + Flyway
-* Redis
-* Kafka
-* Kubernetes
-* Docker
-* OpenTelemetry
-* Prometheus & Grafana
-* Temporal
-* GitHub Actions
+<p align="center">
+Identity • Storage • Metrics • Security • AI Agents
+</p>
 
 ---
 
-## Engineering Principles
+## Building Infrastructure That Powers Intelligence
 
-* API First
-* Zero Trust Security
-* Observability by Default
-* Infrastructure as Code
-* Production-grade Testing
-* Design Documents & ADRs
+Jovavia is a production-grade cloud platform inspired by hyperscale infrastructure systems.
 
----
+### Core Services
 
-## Architecture Vision
+| Service | Purpose |
+|---------|---------|
+| 🛡️ Identity | Authentication, Authorization, RBAC |
+| 🔗 Links | Distributed URL Shortener |
+| 📦 Vault | Object Storage Platform |
+| ⚡ Shield | Distributed Rate Limiter |
+| 📊 Pulse | Metrics & Observability |
+| 🛡️ Guardian | Code Security Platform |
+| 🤖 Agents | Autonomous Code, Review & Test Agents |
 
-Jovavia is evolving into a modular cloud platform with independent services communicating through secure APIs and asynchronous events.
+### Engineering Stack
 
-> Build infrastructure once. Scale everything.
+Java 21 · Spring Boot · PostgreSQL · Redis · Kafka · Kubernetes · Temporal · OpenTelemetry · Prometheus · Grafana
 
----
-
-## Repository Standards
-
-Every repository follows:
-
-* Conventional Commits
-* Semantic Versioning
-* Architecture Decision Records (ADR)
-* GitHub Actions CI/CD
-* Docker-first Development
-* OpenAPI Documentation
-* 90%+ Unit Test Coverage Target
-
----
 
 **Built with ❤️ in Bengaluru, India.**
